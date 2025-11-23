@@ -1,16 +1,20 @@
-## Hi there 👋
+Hi, I'm Hadis 👋
 
-<!--
-**hadis-dev/hadis-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring **Frontend Developer** learning by building real-world projects.
 
-Here are some ideas to get you started:
+🌱 Current Skills
+- HTML & CSS (Flexbox, Grid)
+- Responsive Design
+- Basic JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 What I'm working on
+- Frontend Mentor challenges
+- Building my portfolio website
+- Daily practice to improve layout and styling
+
+📌 Goals
+- Learn JavaScript deeply
+- Build 10+ high-quality projects
+- Get my first job as a frontend developer
+
+Feel free to check my repositories and live projects!
