@@ -5,7 +5,7 @@ I'm an aspiring **Frontend Developer** learning by building real-world projects.
 🌱 Current Skills
 - HTML & CSS (Flexbox, Grid)
 - Responsive Design
-- Basic JavaScript
+- JavaScript
 
 🎯 What I'm working on
 - Frontend Mentor challenges
